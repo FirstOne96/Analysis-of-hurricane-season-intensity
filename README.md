@@ -1,10 +1,8 @@
-# 🌩️ StormIndex Regression Analysis
+# 🌩️ Analysis of hurricane season intensity
 
 ## Overview
 
-This project explores the dependence of **StormIndex** — a variable reflecting storm activity — on various climatic and environmental factors using **linear regression modeling**. The goal was to identify which variables significantly influence storm severity, with a special focus on the interaction between **El Niño phases** and the number of **hurricanes**.
-
-The analysis is part of a university project for the course on **Applied Statistics**.
+This project explores how climatic phenomena—such as El Niño phases, the number of hurricanes, and environmental indicators like West African rainfall—affect the severity of storm seasons, measured by the StormIndex.
 
 ---
 
